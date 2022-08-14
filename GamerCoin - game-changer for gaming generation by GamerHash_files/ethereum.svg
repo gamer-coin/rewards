@@ -1,0 +1,11 @@
+<svg id="ethereum" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_36195" data-name="Rectangle 36195" width="24" height="24" rx="12" fill="#efefef"/>
+  <g id="Group_55682" data-name="Group 55682" transform="translate(6.235 2.381)">
+    <path id="Path_172791" data-name="Path 172791" d="M53.223,85.985V80.271L47.64,82.716Z" transform="translate(-47.64 -73.161)" fill="#62688f"/>
+    <path id="Path_172792" data-name="Path 172792" d="M54.674,22.452V15.74l-5.4,9.079Z" transform="translate(-49.09 -15.736)" fill="#8a92b2"/>
+    <path id="Path_172793" data-name="Path 172793" d="M101.62,15.71v6.715l5.476,2.4Z" transform="translate(-95.676 -15.71)" fill="#62688f"/>
+    <path id="Path_172794" data-name="Path 172794" d="M101.62,80.27v5.714l5.587-3.27Z" transform="translate(-95.676 -73.162)" fill="#454a75"/>
+    <path id="Path_172795" data-name="Path 172795" d="M53.526,120.984v-4.6L47.98,113.14Z" transform="translate(-47.943 -102.413)" fill="#8a92b2"/>
+    <path id="Path_172796" data-name="Path 172796" d="M101.62,120.984l5.546-7.844-5.546,3.248Z" transform="translate(-95.676 -102.413)" fill="#62688f"/>
+  </g>
+</svg>
